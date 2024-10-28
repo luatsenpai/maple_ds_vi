@@ -1,5 +1,4 @@
 system
-This looks would suit you best.[\n]
-dialog
+0000000000000000000000000000000
+dialog [\n]
 00000000000000000000000000000000000000
-Có lẽ một ngày nào đó nó sẽ hữu ích
