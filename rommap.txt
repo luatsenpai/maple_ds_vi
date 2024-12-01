@@ -1,0 +1,22 @@
+in\bg
+1487: save & load
+1475: pause screen; 1474: pal
+1411: tree song
+1498: Maple island
+1454: hint list
+in\obj
+273: miss
+in\res\il
+46: tree song
+
+OUT
+pal    tile   oam   content
+29(2)  14     15    new data button
+29(3)  20     21    continue, select chapter button
+29(4)  23     24    yes, no, del button
+29(5)  26     27    ui button
+
+IN
+pal    tile   oam   content
+34(12) 113    114   load, continue, game over 
+21     23     22    clear
