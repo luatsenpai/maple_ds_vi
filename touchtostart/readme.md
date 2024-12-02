@@ -1,1 +1,0 @@
-Because I couldn't find the pal file, I used desume to dump pal and create my own pal.
