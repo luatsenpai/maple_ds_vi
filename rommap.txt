@@ -17,13 +17,11 @@ pal    tile   oam   content
 29(5)  26     27    ui button
 10     11     12    option, clear....    
 61(2)  80     81    touch to start
+
 IN
 pal    tile   oam   content
 34(12) 113    114   load, continue, game over 
 21     23     22    clear
-
-            
- 
 
 OUT/BG
 nscr   pal   tile    content
