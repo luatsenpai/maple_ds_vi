@@ -15,8 +15,28 @@ pal    tile   oam   content
 29(3)  20     21    continue, select chapter button
 29(4)  23     24    yes, no, del button
 29(5)  26     27    ui button
-
+10    11      12    option, clear....    
 IN
 pal    tile   oam   content
 34(12) 113    114   load, continue, game over 
 21     23     22    clear
+
+            
+ 
+
+OUT/BG
+nscr   pal   tile    content
+6      7      8      coupon book
+9      10     11     view coupon
+15     16     17     input magic number
+18     19     20     magic number input
+24     25     26     select character screen
+27     28     29     select character screen
+33     34     35     sign box
+45     46     47     select character screen
+48     49     50     gallery
+51     52     53     intro screen
+60     61     62     movie
+72     73     74     name input
+75     76     77     name input
+78     79     80     name input
