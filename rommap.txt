@@ -6,6 +6,7 @@ in/bg
 1454: hint list
 in/obj
 273: miss
+4357: level up
 in/res/il
 46: tree song
 
